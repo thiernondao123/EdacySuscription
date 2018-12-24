@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est DE71-4565
+
+ R‚pertoire de C:\Users\Lenovo\Desktop\Edacy\Github
+
+24/12/2018  17:21    <DIR>          .
+24/12/2018  17:21    <DIR>          ..
+24/12/2018  17:21                 0 text.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)   7ÿ449ÿ665ÿ536 octets libres
